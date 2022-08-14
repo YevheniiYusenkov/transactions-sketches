@@ -1,2 +1,2 @@
-export * from './entities.module';
-export * from './entities.service';
+export * from './balance/balance.entity';
+export * from './transaction/transaction.entity';
